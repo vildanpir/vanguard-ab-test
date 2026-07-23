@@ -9,7 +9,8 @@ Analysis of Vanguard's digital interface A/B test (March–June 2017), evaluatin
 * **Error Rate:** The error rate increased in the Test group.
 
 ## Data
-To keep this repository lightweight, the raw CSV files are not included. You can access and download the datasets used for this analysis from the original source:
+To keep this repository lightweight, large dataset files (both the raw `.txt` files and the generated `.csv` files) are not included. Our Jupyter notebook contains all the necessary code to clean the raw data and generate the final datasets automatically.
+You can access and download the datasets used for this analysis from the original source:
 * [Vanguard A/B Test Datasets](https://github.com/data-bootcamp-v4/lessons/tree/b848591bb2e463569007e935eee180b400376e02/5_6_eda_inf_stats_tableau/project/files_for_project)
 
 ## Project Contents
