@@ -15,7 +15,7 @@ To keep this repository lightweight, the raw CSV files are not included. You can
 ## Project Contents
 * `notebooks/` — Data cleaning, Exploratory Data Analysis (EDA), KPI calculation, and hypothesis testing.
 * `tableau/` — Tableau dashboard workbook.
-* **Presentation:** [View Canva Slides](https://canva.link/uqc8302avu21kmm)
+* **Presentation:** https://canva.link/n5m25a4009bre9c
 
 ## Project Management
 * **Task Tracking:** [Trello Board](https://trello.com/invite/b/6a579ae70cf03efdf02cf3c0/ATTI29caa3bd97fd8c0575885664ecb958e30B1DA498/project-2-the-digital-challenge)
