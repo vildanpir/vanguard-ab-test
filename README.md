@@ -12,13 +12,13 @@ Analysis of Vanguard's digital interface A/B test (March–June 2017), evaluatin
 [link to the dataset]
 
 ## Project management
-[https://trello.com/invite/b/6a579ae70cf03efdf02cf3c0/ATTI29caa3bd97fd8c0575885664ecb958e30B1DA498/project-2-the-digital-challenge]
+https://trello.com/invite/b/6a579ae70cf03efdf02cf3c0/ATTI29caa3bd97fd8c0575885664ecb958e30B1DA498/project-2-the-digital-challenge
 
 ## Contents
 - `notebooks/` — cleaning, EDA, KPIs, hypothesis testing
 - `cleaning.py` — helper functions
 - `tableau/` — dashboard workbook
-- Presentation slides: [https://canva.link/uqc8302avu21kmm]
+- Presentation slides: https://canva.link/uqc8302avu21kmm
 
 ## Team
 Vildan Pirpiroglu · Sandra Fernández Pascual · Elena Garrigues
